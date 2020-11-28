@@ -1,0 +1,13 @@
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\obj\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.csprojAssemblyReference.cache
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\obj\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.AssemblyInfoInputs.cache
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\obj\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.AssemblyInfo.cs
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\obj\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.csproj.CoreCompileInputs.cache
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\bin\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.exe
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\bin\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.deps.json
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\bin\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.runtimeconfig.json
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\bin\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.runtimeconfig.dev.json
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\bin\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.dll
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\bin\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.pdb
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\obj\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.dll
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\obj\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.pdb
+C:\Users\Vrdoljak\Desktop\C#\Internship-2-C-Sharp-Basics\Internship-2-C-Sharp-Basics\obj\Debug\netcoreapp3.1\Internship-2-C-Sharp-Basics.genruntimeconfig.cache
